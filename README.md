@@ -3,4 +3,5 @@ html_practice
 
 https://tanukifin.github.io/html_practice/
 
-https://tanukifin.github.io/html_practice/test1.html
+https://tanukifin.github.io/html_practice/test1
+
